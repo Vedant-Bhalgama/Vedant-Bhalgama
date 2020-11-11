@@ -15,4 +15,4 @@ Hello There! My Name is Vedant Bhalgama and I am a learning Ethical Hacker, Pene
 😋 Discord ID : Good Guy#3526
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Vedant-Bhalgama)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Vedant-Bhalgama) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Bhalgama&theme=red-black)
