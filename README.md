@@ -1,5 +1,7 @@
 # Hello World!
 
+https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif
+
 Hello There! My Name is Vedant Bhalgama and I am a learning Ethical Hacker, Penetration Tester and a Python Programmer.
 
 💻 I am currently focusing on Penetration Testing!
