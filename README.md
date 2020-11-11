@@ -1,6 +1,6 @@
 # Hello World!
 
-![Demo](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+![Alt Text](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
 Hello There! My Name is Vedant Bhalgama and I am a learning Ethical Hacker, Penetration Tester and a Python Programmer.
 
