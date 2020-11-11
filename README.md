@@ -16,3 +16,4 @@ Hello There! My Name is Vedant Bhalgama and I am a learning Ethical Hacker, Pene
 
 [![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=Vedant-Bhalgama&theme=blue-green)](https://github.com/Vedant-Bhalgama/github-readme-stats)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/HackTheWorld.png" alt="TryHackMe">
