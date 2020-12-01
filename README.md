@@ -12,13 +12,13 @@ Hello There! My Name is Vedant Bhalgama and I am a learning Ethical Hacker, Pene
 
 💬 Reach me out at : 5016.stkabirdio@gmail.com 
 
-😋 Discord ID : Good Guy#3526
+😋 Discord ID : ActiveXSploit#3526
 
 [![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=Vedant-Bhalgama&theme=blue-green)](https://github.com/Vedant-Bhalgama/github-readme-stats)
 
 ![HackTheWorld](https://user-images.githubusercontent.com/67494275/99162568-24d2cc80-2725-11eb-832c-a41d3a88d614.png)
 
-
+YouTube Channel Link : https://www.youtube.com/channel/UCIlMtOiRDi1luvhtjczvjJw?view_as=subscriber
 
 
 
