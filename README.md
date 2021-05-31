@@ -6,7 +6,7 @@ Hello There! My Name is Vedant Bhalgama and I am a rising Ethical Hacker, Penetr
 
 💻 I am currently focusing on Penetration Testing!
  
-❌ I am not looking forward to collaborate with anyone right now!
+✔️ Collab? Join AvyuktSecurity org. for that, Please mail me to join!
 
 ✔️ TryHackMe Profile : https://tryhackme.com/p/HackTheWorld
 
