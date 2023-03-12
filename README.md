@@ -2,11 +2,11 @@
 
 ![giphy](https://user-images.githubusercontent.com/67494275/98810307-0a5ad380-2445-11eb-88a5-126ec1c877b1.gif)
 
-Hello There! My Name is Vedant Bhalgama and I am a rising Ethical Hacker, Penetration Tester and a Python/C Programmer.
+- Vedant Bhalgama
+- 16
+- Red and Blue Teaming
 
 💻 I am currently focusing on Penetration Testing!
- 
-✔️ Collab? Join AvyuktSecurity org. for that, Please mail me to join!
 
 ✔️ TryHackMe Profile : https://tryhackme.com/p/HackTheWorld
 
