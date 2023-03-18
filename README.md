@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi! Myself Vedant, I'm passionate about cybersecurity! My areas of interests are : 
-  * Red Teaming
-  * Penetration Testing
-  * Malware Development and Research Stuff
-  * Malware Analysis
+  * 🖥️ Red Teaming
+  * 🤓 Penetration Testing
+  * 🕷️ Malware Development and Research Stuff
+  * 🔎 Malware Analysis
 
 
 
