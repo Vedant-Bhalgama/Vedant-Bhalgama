@@ -13,6 +13,5 @@ Hi! Myself Vedant, I'm passionate about cybersecurity! <br>My areas of interests
 [![](https://gtce.itsvg.in/api?username=BhalgamaVedant)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vedant Bhalgama&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
